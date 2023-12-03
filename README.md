@@ -1,5 +1,5 @@
 # SIR Model - 3 Years Study (rest will be ulploaded later)
-Toute l'étude faite sur le modèle SIR (Déterministe compartimental &amp; Probabiliste - États d'une chaîne de Markov).
+Toute l'étude faite sur le modèle SIR (Déterministe Compartimental &amp; Probabiliste - États d'une chaîne de Markov).
 
 ## User Interface :
  
