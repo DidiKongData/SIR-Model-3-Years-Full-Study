@@ -1,5 +1,5 @@
 # SIR Model - 3 Years Study (rest will be ulploaded later)
-Toute l'étude faite sur le modèle SIR (Déterministe compartimental &amp; Probabiliste - États d'une chaîne de Markov)
+Toute l'étude faite sur le modèle SIR (Déterministe compartimental &amp; Probabiliste - États d'une chaîne de Markov).
 
 ## User Interface :
  
@@ -8,8 +8,16 @@ Toute l'étude faite sur le modèle SIR (Déterministe compartimental &amp; Prob
 (Zoom in high definition :)
 ![image](https://github.com/DidiKongData/SIR-Model-3-Years-Deep-Study/assets/147708254/b45565f8-0275-46f9-af12-b46716c4f6ed)
 
-## See project document for more details :
+### See project document for more details :
 (available in repository)
 ![image](https://github.com/DidiKongData/SIR-Model-3-Years-Deep-Study/assets/147708254/da9c121e-358a-4b27-b12f-7b59854d72f2)
+
+## Theoritical Analysis
+Deeper study into the differential equations system & demonstrating locally existing solutions.
+
+<img width="596" alt="image" src="https://github.com/DidiKongData/SIR-Model-3-Years-Study/assets/147708254/5c10b3df-30b9-45fe-a276-d7ca7839fec7">
+
+
+
 
 
